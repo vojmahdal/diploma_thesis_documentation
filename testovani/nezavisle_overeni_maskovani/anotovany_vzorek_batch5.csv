@@ -1,0 +1,115 @@
+﻿row,entity_type,original_text,anonymized_text_of_message,zamaskovano
+4,URL,https://t.co/ldFdZRiNAt,We'd suggest deleting your tweet as it contains your private info. Can you send it via DM instead? [NAME] [URL],ANO
+6,URL,https://t.co/NsnUmfA32m,"Limited offer! New users, enter code 50TWITTER for up to $50 in free ride credit.   [URL]",ANO
+7,PHONE,08075919907,"""@GloCare: @[REDACTED] Kindly provide your phone number for checks. Thank you for your patience. UO."" -- [PHONE]",ANO
+9,PERSON,^UA,@[REDACTED] We have responded.[NAME],ANO
+10,PERSON,^BAB,The movie will be billed and then credited to the account. [ID],ANO
+11,PERSON,^DW,[REDACTED]? [NAME],ANO
+13,PERSON,^PA,We don't have a date for those tickets yet I'm afraid. [NAME],ANO
+15,URL,https://t.co/9iYZHg1jLW,You can check the contest winner names here: [URL] [NAME]. [NAME],ANO
+15,PERSON,Ayesha,You can check the contest winner names here: [URL] [NAME]. [NAME],ANO
+15,PERSON,^MP,You can check the contest winner names here: [URL] [NAME]. [NAME],ANO
+17,URL,https://t.co/GDrqU22YpT,"If you are not seeing the file, then you will want to do a complete system restore. DM us any further questions. [URL]",ANO
+21,LOCATION,80124,Intermittent detection issues with 1[REDACTED] portable hdd. Can I take it to authorized service center for replacement? Zip code: [DATE],ANO
+22,PERSON,-B.G,I'm sorry for your experience. Please contact @[REDACTED] for assistance. -B.G,NE
+23,PERSON,^YP,"If any of your concern remains unresolved, please revert to our latest correspondence and we'll get back. [NAME]",ANO
+24,PERSON,^PP.,Hi! Thank you so much for contacting us. We'd love to help. The iPhone 6s has a cost of: $429.99. Hope this helped. [NAME].,ANO
+26,PERSON,-SG,"We apologize, again, check your [REDACTED] card memory level. Thank you-SG",NE
+27,URL,https://t.co/6YdK7bNrEF,"So that we may look at what options may be available, please contact us by phone here: [URL]",ANO
+28,DATE,Friday,Hey @[REDACTED] @HotelTonightCX pls help I need v special hotel in [LOCATION] [DATE]? I've been nominated for an [REDACTED]amp; forgot to book,ANO
+28,LOCATION,Liverpool,Hey @[REDACTED] @HotelTonightCX pls help I need v special hotel in [LOCATION] [DATE]? I've been nominated for an [REDACTED]amp; forgot to book,ANO
+30,PERSON,Mike,Hi [NAME]! Can you send us the Song Link? Just tap the three dots &gt; [REDACTED]; [NAME]. We'll check it out [ID],ANO
+30,PERSON,/AK,Hi [NAME]! Can you send us the Song Link? Just tap the three dots &gt; [REDACTED]; [NAME]. We'll check it out [ID],ANO
+31,URL,https://t.co/Yn083lfWm8,[URL],ANO
+34,PERSON,^PP.,"Thanks. Yeah that's right, they are in the [ID] library on my computer",ANO
+35,URL,https://t.co/u3MyknJaaN,Here to help! Please send us a note via  [URL]   so our team can connect.,ANO
+36,PERSON,^NO,"Hi, we are following up on your request under ticket no. 1-DAPT4JV. We will advise once done within [DATE]. [NAME]",ANO
+37,URL,https://t.co/ivH6CioRrt,details here [URL] so that we can get in touch with you. (2/2) [NAME],ANO
+37,PERSON,^VM,details here [URL] so that we can get in touch with you. (2/2) [NAME],ANO
+38,PERSON,Divya,once we have more information regarding this issue. Hang in there. We would appreciate your patience on this. [REDACTED] (2/2),ANO
+39,PERSON,Nina,"Hi [NAME], you can select phone at the bottom of the page there. [NAME]",ANO
+39,PERSON,^AT,"Hi [NAME], you can select phone at the bottom of the page there. [NAME]",ANO
+43,URL,https://t.co/hApLpMlfHN,We'd like to get the details so we can investigate further. Will you e-mail us an example of the title (season and episode number) a time frame of when the error occurs and include your device name again: [URL] [NAME],ANO
+43,PERSON,^MG,We'd like to get the details so we can investigate further. Will you e-mail us an example of the title (season and episode number) a time frame of when the error occurs and include your device name again: [URL] [NAME],ANO
+45,PERSON,Will,I think I got the [DATE] payments to work.  Do I need to reinvite my kids or should their accounts switch back to premium automatically?,ANO
+46,PERSON,Laura,"You're welcome, Will. Glad it's sorted - [NAME] :)",ANO
+48,PERSON,Lexie,"Please let us know if you have any questions, just DM us your account number and any questions you may have. - [NAME]",ANO
+50,URL,https://t.co/E7zEsgZ124,See the bigger picture for half the price. Get [REDACTED] for 50% off with [REDACTED]. #WorksForMe [URL],ANO
+51,URL,https://t.co/oGvBL1pZwF,"Hi there! Unfortunately, this page does not support Spanish as a language. I recommend reaching out to the [ID]... [URL]",ANO
+52,PERSON,Divya,Yes! It is the official release of [REDACTED] F1s. Please visit your nearest OPPO [LOCATION] to get your device upgraded. Divya,NE
+55,PERSON,^MO,Hi they will sort you out. [NAME],ANO
+61,LOCATION,Austin,We weren't planning on it but ended up visiting sooner than we thought: we spent [DATE] at Van Zandt in [LOCATION] after [NAME]. Another gem!,ANO
+63,URL,https://t.co/alpLtQ6LK7,@[REDACTED] [URL] Could you play this the next time @97048 flies with us? 😂,ANO
+64,PERSON,^CB,We aim to have reservations in place before departure but there can be issues with the system when downloading. It's an issue that's being looked in to [NAME],ANO
+66,URL,https://t.co/3mPq6UE7sm,I ordered via [URL] but it's not coming up on the link you've given here.,ANO
+67,PERSON,Michelle,Hi [NAME]! Yes dinner will be served. *[REDACTED],ANO
+67,PERSON,*TMC,Hi [NAME]! Yes dinner will be served. *[REDACTED],ANO
+69,PERSON,Sylva,"Hi [NAME], I am sorry, this is not something we would provide feedback to you for. It is for internal use only. [REDACTED]",ANO
+69,PERSON,Chris,"Hi [NAME], I am sorry, this is not something we would provide feedback to you for. It is for internal use only. [REDACTED]",ANO
+71,URL,https://t.co/viHbnoBgMT,Sorry to hear that. DM us your email/shipping address and we'll make it right. [NAME],ANO
+72,URL,https://t.co/o9JhP85UGL,@[REDACTED] We don't yet have a symbol server for [REDACTED]. One option would be to use [LOCATION] [URL],ANO
+73,URL,https://t.co/LBfZgLCSfr,"Apologies for the trouble. Please DM us your alternate number as well to get in touch with you. Regards, [NAME]. [URL]",ANO
+73,PERSON,Darshan,"Apologies for the trouble. Please DM us your alternate number as well to get in touch with you. Regards, [NAME]. [URL]",ANO
+76,URL,https://t.co/uyyoA91eXq,Hi there! For further information about this promotion please visit the following link [URL] . - JL [URL],ANO
+76,URL,https://t.co/rMApsV8PQY,Hi there! For further information about this promotion please visit the following link [URL] . - JL [URL],ANO
+76,PERSON,JL,Hi there! For further information about this promotion please visit the following link [URL] . - JL [URL],NE
+79,PERSON,David,@Tesco @[REDACTED] Hi [NAME]. We’d like to confirm that all [REDACTED] meat is pre-stunned and we do not label any products as Halal certified.,ANO
+80,PERSON,^GU,Sorry for the trouble. Kindly please drop in your details in the link mentioned above for further assistance. [NAME],ANO
+82,PERSON,^NN,"Hi,we got in touch and advised.[NAME]",ANO
+83,URL,https://t.co/QCc4faFMdy,"It's just so disrespectful. @983 can't build a safe bike lane, can't enforce this unsafe one, and drivers don't even care. [URL]",ANO
+84,PERSON,George Soros,@ask_progressive [NAME] doesn't need more money quit buying [REDACTED],ANO
+85,PERSON,^EK,"I'm sry to hear u have not received these statements. I have re-escalated ur concern to our partners in [REDACTED]amp; requested that they reach out to u as soon as possible, However it may take up to two business days to receive a call. I hope this information helps. [NAME]",ANO
+86,PHONE,503-830-0910,Policy [REDACTED] Phone: [PHONE],ANO
+91,LOCATION,JFK,@VirginAtlantic @VirginAtlantic I sent an email to __email__ requesting for the receipt of the $200 payment I made at [NAME].,ANO
+93,URL,https://t.co/Gvlwh2mfIc,First up is this beast from Depot Bakery with some form of relish side. [URL],ANO
+94,PERSON,Anirban,You can add an exception for this folder in [REDACTED]. What [REDACTED] program do you use? [NAME],ANO
+96,PERSON,Yana,new [URL]ank you =) [NAME],ANO
+98,URL,https://t.co/ZT2ZqntCP3,Hello again. having camera difficulty when facetiming or using photobooth. The latest software is downloaded. what could this be? [URL],ANO
+101,URL,https://t.co/bIfAZb4vDm,thank you for sending me this [REDACTED] lanyard. #firsttrainlanyard [URL],ANO
+102,PERSON,Li,Hey [NAME]! Thanks for getting in touch! Which kind of promotion are you referring to? Please give us more details. Thanks ^A,ANO
+103,PERSON,Damon,"Hey [NAME], we're truly sorry for this experience! Happy to review further with you at __email__ if you'd like",ANO
+104,PERSON,Bob Seger,Why are there no [NAME] songs on [REDACTED]? This is a disgrace omgggg. [REDACTED] @[REDACTED],ANO
+107,URL,https://t.co/xFoUpOOXJA,"Bonjour à vous, [REDACTED] a été résolu. [REDACTED] disposition par... [URL]",ANO
+112,PERSON,Ann,@[REDACTED] @[REDACTED] Hi [NAME]. We’d like to confirm that all [REDACTED] meat is pre-stunned and we do not label any products as Halal certified.,ANO
+120,URL,https://t.co/xlEjgbEu2x,Please reach out to us here via phone as soon as you're able to: [URL] [NAME],ANO
+120,PERSON,^QJ,Please reach out to us here via phone as soon as you're able to: [URL] [NAME],ANO
+122,URL,https://t.co/1I3MQuRGJQ,Why do supermarkets not label contents of instore baked bread? Asked in @Morrisons at w/end for info - no one knew [URL],ANO
+124,DATE,31/8/17,"Sorry for the trouble We request for your kind patience As your concern is in progress, will be resolve by [DATE] [REDACTED]",ANO
+124,PERSON,Sneha,"Sorry for the trouble We request for your kind patience As your concern is in progress, will be resolve by [DATE] [REDACTED]",ANO
+125,DATE,2009,"I have struggled with this brand since [DATE] when all the loan crap began. I am owed back insurance of $3,000. I get no help",ANO
+127,PERSON,^DE,We believe we have been of help on call.@[REDACTED] [NAME],ANO
+128,PERSON,-MH,This is very concerning to us and we would really like to help. Can you let us know the make and model of your phone? -MH,NE
+134,PERSON,^ML,"Packages are delayed due to holiday volume. I'm sorry, UPS is working on getting these delivered as soon as possible but we have a backlog. [NAME]",ANO
+135,DATE,2019,"Hi [NAME], we have no update at the moment. We're currently installing WiFi across all our fleet and this should be completed by [DATE]. [NAME]",ANO
+135,PERSON,^Nat,"Hi [NAME], we have no update at the moment. We're currently installing WiFi across all our fleet and this should be completed by [DATE]. [NAME]",ANO
+140,URL,https://t.co/DeZpnQ4Htf,"Hmm, That is a protect content error code. 🤔  Let's check for Flash updates: [URL] Notice an improvement?",ANO
+142,PERSON,Marcus,"Hi [NAME], is there something we can help you with? [NAME]",ANO
+142,PERSON,^Jane,"Hi [NAME], is there something we can help you with? [NAME]",ANO
+143,PERSON,^SJ,Happy to hear you were able to check in. [REDACTED]-[REDACTED] is reserved for those that purchase [REDACTED]. Fingers crossed for next time. [NAME],ANO
+144,URL,https://t.co/YYYJg6UOwi,[URL] increase your limit. For more information on [NAME] loan conditions view [REDACTED],ANO
+144,PERSON,^SB,[URL] increase your limit. For more information on [NAME] loan conditions view [REDACTED],ANO
+145,PERSON,^RO,We currently do not have tracking services. [NAME],ANO
+151,PERSON,^MA,You're most welcome! We're glad to hear that coming from you and that accomplishes what we strive for. :) [NAME],ANO
+153,URL,https://t.co/1MZxUBHyLg,"@[REDACTED] Late again, what is the actual reason? I've heard leaves and previously a level crossing problem. What is the actual reason? [URL]",ANO
+158,PERSON,Srikant,Hi [NAME]! Thank you! We have got your DM. We will ensure that this is sorted out right away. #[REDACTED] :) - [NAME],ANO
+158,PERSON,Reema,Hi [NAME]! Thank you! We have got your DM. We will ensure that this is sorted out right away. #[REDACTED] :) - [NAME],ANO
+163,PERSON,Tina,Hey [NAME]! Sign up for what?,ANO
+165,URL,https://t.co/3Kw6PR8k5n,"Hi, please have a look at the following link as it provides info that may be helpful: [URL] [NAME]",ANO
+165,PERSON,^KK,"Hi, please have a look at the following link as it provides info that may be helpful: [URL] [NAME]",ANO
+166,PERSON,Mow,"Hi [NAME], I've spoken with a Duty Manager and they've advised there been a problem with the labels. 1/2",ANO
+168,PERSON,-Dinesh,Sorry to hear that. Could you send us a direct message to collect a few information and help you with that? - [NAME],ANO
+172,PERSON,Michael,its [NAME],ANO
+173,PERSON,*HDV,[URL]nt from. I will reach out to our [REDACTED] coordinators for an update on your case.  *[REDACTED] 2/2,ANO
+174,PERSON,^LJ,"As of now [NAME] is closed until [DATE] at [DATE]. However, we appreciate you thinking of the families who were impacted. [NAME]",ANO
+176,URL,https://t.co/y7rSTLsgY2,"Hi again, we’d like to investigate this further. Please write to us at [URL] and DM us your ticket ID. Thanks!",ANO
+177,URL,https://t.co/aaDyEz1VgE,I'm so sorry that your item didn't arrive in time! Can you tell me the status &amp; carrier:  [URL] [NAME],ANO
+177,PERSON,^FR,I'm so sorry that your item didn't arrive in time! Can you tell me the status &amp; carrier:  [URL] [NAME],ANO
+179,URL,https://t.co/q1oBDuYAdh,What happened? Pls tell me and I'll look into your concern (no acct #). Thanks. [NAME] [URL],ANO
+179,PERSON,^RP,What happened? Pls tell me and I'll look into your concern (no acct #). Thanks. [NAME] [URL],ANO
+180,PERSON,-Prabu,"Hi There, you may pre-book [REDACTED] online via Manage my Booking up [DATE] before departure. Thank you. - [NAME]",ANO
+186,PERSON,^XS,"Hey there, what did you get banned from? Can you DM us your [NAME] and a description of what's going on? [NAME]",ANO
+192,PERSON,Emma,"We'd be unable to provide those specifics [NAME], sorry.",ANO
+195,LOCATION,Macclesfield,Not sure of the postcode but it's in [LOCATION] park [LOCATION] Sk11 :),ANO
+198,PERSON,^RK,Please be sure to send us a DM for further assistance. [NAME],ANO
+201,LOCATION,London,Last leg. [LOCATION] - #Göteborg 🇸🇪 [URL],ANO
+201,LOCATION,Göteborg,Last leg. [LOCATION] - #Göteborg 🇸🇪 [URL],NE
